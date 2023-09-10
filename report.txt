@@ -1,0 +1,12 @@
+This is my fork for IT-Jim trainee program. 
+
+The main goal was to detect and recognize faces.
+
+The time that was left wasn't enough to complete this task properly, because the main focus was on NLP task, so I have trained my model poorly and saved it in siamesemodel.h5.  
+
+The solution consists of 3 files:
+
+SNN.ipynb - SNN model code ( was created using open-source tutorials )
+main.py - OpenCV lib was used to detect a face and make a frame around it but I couldn't manage to run SNN model due to the reasons that was mentioned above.
+siamesemodel.h5 - SNN model
+result.png - the result of program
